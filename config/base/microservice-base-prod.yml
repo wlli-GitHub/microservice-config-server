@@ -1,0 +1,5 @@
+data:
+  env: config-microservice-base-prod
+  user:
+    username: config-microservice-base-prod-user
+    password: 123456
