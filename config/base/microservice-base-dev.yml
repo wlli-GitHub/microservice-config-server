@@ -1,5 +1,5 @@
 data:
   env: config-microservice-base-dev
   user:
-    username: config-microservice-base-dev-user
+    username: config-microservice-base-dev-user-1.0
     password: 123456

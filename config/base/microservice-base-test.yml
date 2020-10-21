@@ -1,5 +1,5 @@
 data:
   env: config-microservice-base-test
   user:
-    username: config-microservice-base-test-user
+    username: config-microservice-base-test-user-1.0
     password: 123456
